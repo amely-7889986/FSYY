@@ -542,7 +542,6 @@ body{
   margin: 20px 10px;
 }
 .column-list li{
-  height: 64px;
   width: 100%;
   font-size: 18px;
   line-height: 64px;
@@ -550,8 +549,7 @@ body{
   color: #636262;
 }
 .column-list li>a{
-  height: 64px;
-  display: block;
+  display: inline-block;
   border-bottom: #dddddd 1px dashed;
 }
 .column-list li>a:hover{
