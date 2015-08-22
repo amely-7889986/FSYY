@@ -142,7 +142,7 @@ body{
   color: #474f58;
 }
 .contain-width{
-  min-width: 1000px;
+  width: 1000px !important;
   margin: 0 auto;
 }
 /*top-head*/
